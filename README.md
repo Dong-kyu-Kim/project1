@@ -2,7 +2,7 @@
 restaurant data analysis
 
 
-Since there were 8368 data in each column in this data file, when classifying the data, we classified the data by the restaurant location and by each country’s cuisine using the population instead of sampled data.
+Since there were 8368 data in each column of this data file, when classifying data, data were classified by restaurant location and by cooking in each country using population instead of sample data.
 
 Since the classification was made using the population, this analysis provides various advantages such as increased accuracy, reduced variability, secured representativeness, reduced need for estimation, increased accuracy of decision making, and better predictive models. 
 
@@ -10,7 +10,7 @@ Restaurant Analysis PPT file: [restaurant_data_analysis.pdf](https://github.com/
 
 Presentation Record: [Presentation Record.pdf](https://github.com/user-attachments/files/16477883/Presentation.Record.pdf)
 
-Observations and Analysis 1
+# Observations and Analysis 1
 
 ![Screenshot 2024-08-05 200957](https://github.com/user-attachments/assets/e0ada083-8a77-4b1e-9949-bbdf93cd09d1)
 ![avg_weekend_weekday_line_comparison](https://github.com/user-attachments/assets/c02e6fd0-05a4-4093-936a-2cddc41a69c9)        
@@ -31,7 +31,7 @@ Comprehensive Analysis
 
   - Comparing the difference between weekday and weekend reservations, if weekday reservations are higher or lower than weekend reservations, it depends on the type of dish. Indian dishes have higher weekday reservations than weekend reservations, and Japanese dishes have     the opposite.
 
-Observations and Analysis 2
+# Observations and Analysis 2
 
 ![weekend_revenue_scatter](https://github.com/user-attachments/assets/26dacc2b-0e78-408c-b06b-3b2389c0d41f)
 
@@ -43,7 +43,7 @@ Key observations:
 
   - The scatter plot and linear regression analysis reveal a positive relationship between weekend reservations and revenue. While the model provides a useful trend for predicting revenue based on reservations, the variability in the data suggests the influence of other     factors.
 
-Observations and Analysis 3
+# Observations and Analysis 3
 
 ![Screenshot 2024-08-05 211134](https://github.com/user-attachments/assets/e074232e-8d2a-444c-9282-43b04e5633bb)
 
@@ -59,7 +59,7 @@ Key observations:
 
   - Scatter plot and linear regression analysis allow a clear and quantifiable understanding of the strong correlation between marketing budgets and social media followers.
 
-Observations and Analysis 4
+# Observations and Analysis 4
 
 ![Screenshot 2024-08-05 205330](https://github.com/user-attachments/assets/e8a8c5e1-8941-494c-8ac8-4c4280fb5c10)
 ![avg_revenue_bar_comparison](https://github.com/user-attachments/assets/50af49aa-8a69-4081-bef0-8b4e042f1694)
@@ -74,7 +74,7 @@ Key observations:
 
   - Mexican cuisine is on the lower end, both in terms of reservation and revenue.
 
-Observations and Analysis 5
+# Observations and Analysis 5
 
 ![Screenshot 2024-08-05 210035](https://github.com/user-attachments/assets/8745a522-3b84-441a-ae2f-18cae0206e8b)
 ![Screenshot 2024-08-05 211329](https://github.com/user-attachments/assets/15c770c6-0392-4185-b912-fa831eb80de7)
