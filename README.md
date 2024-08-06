@@ -59,4 +59,18 @@ Key observations:
 
   - Scatter plot and linear regression analysis allow a clear and quantifiable understanding of the strong correlation between marketing budgets and social media followers.
 
+Observations and Analysis 4
+
+![Screenshot 2024-08-05 205330](https://github.com/user-attachments/assets/e8a8c5e1-8941-494c-8ac8-4c4280fb5c10)
+![avg_revenue_bar_comparison](https://github.com/user-attachments/assets/50af49aa-8a69-4081-bef0-8b4e042f1694)
+
+Key observations:
+
+  - When analyzing the relationship between the number of reservations and profits, Japanese cuisine has the highest revenue despite its relatively low number of reservations. This may suggest that Japanese cuisine has a high unit price.
+
+  - On the other hand, Indian cuisine has a high number of reservations, but its revenue is relatively low. This suggests that the unit price is likely to be low.
+
+  - French cuisine also has an average number of reservations, but it indicates that the unit price is high due to high profits.
+
+  - Mexican cuisine is on the lower end, both in terms of reservation and revenue.
 
