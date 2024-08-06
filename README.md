@@ -1,6 +1,7 @@
 # Restaurant Data Analysis
 restaurant data analysis
 
+Dataaset: https://www.kaggle.com/datasets/anthonytherrien/restaurant-revenue-prediction-dataset/data 
 
 Since there were 8368 data in each column of this data file, when classifying data, data were classified by restaurant location and by cooking in each country using population instead of sample data.
 
