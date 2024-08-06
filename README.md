@@ -45,7 +45,7 @@ Key observations:
 
 Observations and Analysis 3
 
-![marketing_followers_scatter](https://github.com/user-attachments/assets/c4b48bc9-5260-46d6-b118-c54252482611)
+![Screenshot 2024-08-05 211134](https://github.com/user-attachments/assets/e074232e-8d2a-444c-9282-43b04e5633bb)
 
 Key observations:
 
@@ -77,7 +77,7 @@ Key observations:
 Observations and Analysis 5
 
 ![Screenshot 2024-08-05 210035](https://github.com/user-attachments/assets/8745a522-3b84-441a-ae2f-18cae0206e8b)
-![avg_revenue_bar_comparison](https://github.com/user-attachments/assets/c6df3a5b-0213-476c-ac5b-b25219dc1b8a)
+![Screenshot 2024-08-05 211329](https://github.com/user-attachments/assets/15c770c6-0392-4185-b912-fa831eb80de7)
 
 Key observations:
 
