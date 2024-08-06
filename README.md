@@ -1,4 +1,4 @@
-# restaurant data analysis
+# Restaurant Data Analysis
 restaurant data analysis
 
 
