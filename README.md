@@ -16,7 +16,7 @@ Presentation Record: [Presentation Record.pdf](https://github.com/user-attachmen
 ![Screenshot 2024-08-05 200957](https://github.com/user-attachments/assets/e0ada083-8a77-4b1e-9949-bbdf93cd09d1)
 ![avg_weekend_weekday_line_comparison](https://github.com/user-attachments/assets/c02e6fd0-05a4-4093-936a-2cddc41a69c9)        
 
-Key observations:
+Key Observations:
 
   - Midweek bookings for Indian cuisine are the highest at 30.209642, and weekend bookings are also high at 29.733382.
 
@@ -36,7 +36,7 @@ Comprehensive Analysis
 
 ![weekend_revenue_scatter](https://github.com/user-attachments/assets/26dacc2b-0e78-408c-b06b-3b2389c0d41f)
 
-Key observations:
+Key Observations:
 
   - For every additional weekend reservation, revenue increases by approximately $3,904.63. This indicates a positive and direct impact of weekend reservations on revenue. 
 
@@ -48,7 +48,7 @@ Key observations:
 
 ![Screenshot 2024-08-05 211134](https://github.com/user-attachments/assets/e074232e-8d2a-444c-9282-43b04e5633bb)
 
-Key observations:
+Key Observations:
 
   - The data points (in blue) are tightly clustered around the regression line, indicating a strong linear relationship between the marketing budget and social media followers.
 
@@ -65,7 +65,7 @@ Key observations:
 ![Screenshot 2024-08-05 205330](https://github.com/user-attachments/assets/e8a8c5e1-8941-494c-8ac8-4c4280fb5c10)
 ![avg_revenue_bar_comparison](https://github.com/user-attachments/assets/50af49aa-8a69-4081-bef0-8b4e042f1694)
 
-Key observations:
+Key Observations:
 
   - When analyzing the relationship between the number of reservations and profits, Japanese cuisine has the highest revenue despite its relatively low number of reservations. This may suggest that Japanese cuisine has a high unit price.
 
@@ -80,7 +80,7 @@ Key observations:
 ![Screenshot 2024-08-05 210035](https://github.com/user-attachments/assets/8745a522-3b84-441a-ae2f-18cae0206e8b)
 ![Screenshot 2024-08-05 211329](https://github.com/user-attachments/assets/15c770c6-0392-4185-b912-fa831eb80de7)
 
-Key observations:
+Key Observations:
 
   - The downtown area has a much higher average culinary return compared to other locations. This may be a result of reflecting the high population density and economic level of the downtown area.
 
