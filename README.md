@@ -74,3 +74,17 @@ Key observations:
 
   - Mexican cuisine is on the lower end, both in terms of reservation and revenue.
 
+Observations and Analysis 5
+
+![Screenshot 2024-08-05 210035](https://github.com/user-attachments/assets/8745a522-3b84-441a-ae2f-18cae0206e8b)
+![avg_revenue_bar_comparison](https://github.com/user-attachments/assets/c6df3a5b-0213-476c-ac5b-b25219dc1b8a)
+
+Key observations:
+
+  - The downtown area has a much higher average culinary return compared to other locations. This may be a result of reflecting the high population density and economic level of the downtown area.
+
+  - Suburban areas are lower than urban areas, but they earn higher profits than rural areas. Because suburbs have many residential areas and various populations, profits appear to be moderate.
+
+  - The lowest returns in rural areas may be due to relatively low population densities and less economic activity.
+
+  - With this data, we can understand the differences in culinary revenue for each location, which can provide important information for restaurant operations and location selection. 
