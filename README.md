@@ -26,8 +26,6 @@ Key Observations:
 
   - Weekend reservations are evenly distributed between 28.5 and 30.0 for all dishes.
 
-Comprehensive Analysis
-
   - Weekend reservations generally do not vary much by type of dish, but it is unusual that Indian dishes are noticeably high and Japanese dishes are low in weekday reservations.
 
   - Comparing the difference between weekday and weekend reservations, if weekday reservations are higher or lower than weekend reservations, it depends on the type of dish. Indian dishes have higher weekday reservations than weekend reservations, and Japanese dishes have     the opposite.
