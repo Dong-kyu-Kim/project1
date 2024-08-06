@@ -22,8 +22,6 @@ Key Observations:
 
   - Weekday bookings for Japanese dishes are the lowest at 27.842262, and weekend bookings are also the lowest at 28.534970.
 
-  - American, French, Italian, and Mexican dishes do not have much difference in weekday and weekend reservations.
-
   - Weekend reservations are evenly distributed between 28.5 and 30.0 for all dishes.
 
   - Weekend reservations generally do not vary much by type of dish, but it is unusual that Indian dishes are noticeably high and Japanese dishes are low in weekday reservations.
